@@ -1,5 +1,4 @@
 # JWT-security-API
-Sistema de autenticação e autorização backend utilizando Spring Boot e JWT. O objetivo principal é garantir que apenas usuários autenticados tenham acesso aos recursos da plataforma.
 
 Projeto desenvolvido como parte de um trabalho acadêmico na Newton Paiva e tem como objetivo criar um sistema de backend seguro para autenticação e autorização utilizando Spring Boot e JWT.
 Inspirado por sistemas de gerenciamento de usuários e segurança, o projeto abrange operações de registro, login e gerenciamento de permissões de acesso, assegurando que apenas usuários autenticados possam acessar recursos protegidos.
